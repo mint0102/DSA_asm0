@@ -20,6 +20,7 @@ int main(int argc, char **argv)
 {
     //if (argc < 2)
         //return 1;
+        //hmmm, tìm hiểu qua cái lệnh này, khó hiểu quá
         test("D:\\CLionProjects\\asm\\asm1\\asm0\\test1.txt");
     return 0;
 }
