@@ -249,5 +249,7 @@ public:
     SymbolTable() {}
     void run(string filename);
     ~SymbolTable(){}
+    // tac dung cua class nay la gi?
+    //
 };
 #endif
