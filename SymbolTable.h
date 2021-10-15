@@ -241,6 +241,7 @@ void remove(Link*& List, int level){
             Node * t = temp;
             temp = temp->next;
             free(t);
+            //free(t) ????
         }
     }
 }
